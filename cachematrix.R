@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Catching the Inverse of a Matrix:
+## I created a special "matrix" object that can cache its inverse.
 
 ##This function x is the matrix and the solved t is a null. 
 
